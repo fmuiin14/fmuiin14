@@ -44,109 +44,16 @@ Full-Stack Software Engineer based in Jakarta, Indonesia.
 
 <div align="center">
 
-## ⚙️ Tech Stack
-
-</div>
-
-<br />
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=php" width="55" alt="PHP" />
-      <br /><sub><b>PHP</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=laravel" width="55" alt="Laravel" />
-      <br /><sub><b>Laravel</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="55" alt="Node.js" />
-      <br /><sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=ts" width="55" alt="TypeScript" />
-      <br /><sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=react" width="55" alt="React" />
-      <br /><sub><b>React</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=vue" width="55" alt="Vue.js" />
-      <br /><sub><b>Vue.js</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="55" alt="Next.js" />
-      <br /><sub><b>Next.js</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=py" width="55" alt="Python" />
-      <br /><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=postgres" width="55" alt="PostgreSQL" />
-      <br /><sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=redis" width="55" alt="Redis" />
-      <br /><sub><b>Redis</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=docker" width="55" alt="Docker" />
-      <br /><sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=aws" width="55" alt="AWS" />
-      <br /><sub><b>AWS</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="55" alt="GitHub Actions" />
-      <br /><sub><b>CI/CD</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=linux" width="55" alt="Linux" />
-      <br /><sub><b>Linux</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="55" alt="WordPress" />
-      <br /><sub><b>WordPress</b></sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br />
-
----
-
-<div align="center">
-
 ## 📊 Contributions
 
-</div>
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fmuiin&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
 
 <br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fmuiin/fmuiin/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fmuiin/fmuiin/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fmuiin/fmuiin/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=fmuiin&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-<br />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=fmuiin&hide_border=true" alt="GitHub Streak" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fmuiin&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fmuiin&hide_border=true" alt="GitHub Streak" />
 </div>
