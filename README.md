@@ -61,9 +61,9 @@ Full-Stack Software Engineer based in Jakarta, Indonesia.
 
 ---
 
-### Legacy — [@fmuiin14](https://github.com/fmuiin14) (2018–2023 highlights)
+### Legacy — [@fmuiin14](https://github.com/fmuiin14) (2018–2023)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fmuiin14&theme=github-compact&hide_border=true&area=true&from=2018-01-01&to=2023-12-31&custom_title=fmuiin14%20contributions%20(2018–2023)" alt="fmuiin14 activity graph 2018-2023" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fmuiin14&theme=default" alt="fmuiin14 profile details" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fmuiin14&theme=default" alt="fmuiin14 top languages by repo" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fmuiin14&theme=default&utcOffset=7" alt="fmuiin14 productive time" />
