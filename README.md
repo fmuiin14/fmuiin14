@@ -52,8 +52,6 @@ Full-Stack Software Engineer based in Jakarta, Indonesia.
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=fmuiin&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=fmuiin&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=fmuiin&hide_border=true" alt="GitHub Streak" />
 
 </div>
