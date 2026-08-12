@@ -5,10 +5,9 @@ Full-Stack Software Engineer based in Jakarta, Indonesia.
 
 **What I'm doing:**
 
-- Senior Software Engineer at [W.Media](https://w.media) (Singapore) — event ticketing platform, payment processing, React PWA, CI/CD
-- Previously shipped high-traffic media platforms at MNC Portal (SINDOnews, Celebrities.id, Sportstars)
-- Speaker & Mentor — Dicoding Expert Session, Remote Worker Community, Bangkit Academy, Wired for Work (W4W!)
-- Contributor at Coding Camp 2025 & 2026 (DBS Foundation & Dicoding)
+- Building scalable event platforms that handle thousands of attendees & multi-gateway payments
+- Mentoring & speaking at dev communities (Dicoding, Bangkit Academy, Coding Camp, W4W!)
+- Exploring AI integration & cloud-native architecture for production systems
 
 **Certification:**
 
@@ -16,7 +15,7 @@ Full-Stack Software Engineer based in Jakarta, Indonesia.
 
 **Links:**
 
-- Portfolio: [fmuiin14.github.io](https://fmuiin14.github.io/)
+- Portfolio: [fmuiin.github.io](https://fmuiin.github.io/)
 - LinkedIn: [linkedin.com/in/fmuiin14](https://www.linkedin.com/in/fmuiin14/)
 - Active GitHub (2024–now): [github.com/fmuiin](https://github.com/fmuiin)
 - Legacy GitHub (2023–2026): [github.com/fmuiin14](https://github.com/fmuiin14)
@@ -53,8 +52,26 @@ Full-Stack Software Engineer based in Jakarta, Indonesia.
 
 ## 📊 Contributions
 
-<br />
+### Current — [@fmuiin](https://github.com/fmuiin) (2024–now)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fmuiin&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+**Last 31 days**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fmuiin&theme=github-compact&hide_border=true&area=true&days=31" alt="fmuiin - Last 31 days" />
+
+**Last year**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fmuiin&theme=github-compact&hide_border=true&area=true&days=365" alt="fmuiin - Last year" />
+
+---
+
+### Legacy — [@fmuiin14](https://github.com/fmuiin14) (2023–2026)
+
+**Last year**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fmuiin14&theme=github-compact&hide_border=true&area=true&days=365" alt="fmuiin14 - Last year" />
+
+**All time**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fmuiin14&theme=github-compact&hide_border=true&area=true" alt="fmuiin14 - All time" />
 
 </div>
