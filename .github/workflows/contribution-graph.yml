@@ -2,11 +2,11 @@ name: Generate Contribution Graphs
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Setiap hari jam 00:00 UTC
-  workflow_dispatch: # Bisa trigger manual
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
-  generate:
+  generate-current:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -14,23 +14,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate contribution graph - fmuiin (current)
-        uses: Ashutosh00710/github-readme-activity-graph@v2
+      - name: Generate snake graph - fmuiin (current)
+        uses: Platane/snk@v3
         with:
-          username: "fmuiin"
-          output_filename: "graphs/fmuiin-contribution.svg"
-          theme: "github-compact"
-          hide_border: true
-          area: true
+          github_user_name: fmuiin
+          outputs: |
+            graphs/fmuiin-snake.svg
+            graphs/fmuiin-snake-dark.svg?palette=github-dark
 
-      - name: Generate contribution graph - fmuiin14 (legacy)
-        uses: Ashutosh00710/github-readme-activity-graph@v2
+      - name: Generate snake graph - fmuiin14 (legacy)
+        uses: Platane/snk@v3
         with:
-          username: "fmuiin14"
-          output_filename: "graphs/fmuiin14-contribution.svg"
-          theme: "github-compact"
-          hide_border: true
-          area: true
+          github_user_name: fmuiin14
+          outputs: |
+            graphs/fmuiin14-snake.svg
+            graphs/fmuiin14-snake-dark.svg?palette=github-dark
 
       - name: Commit graphs
         run: |

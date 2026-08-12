@@ -54,14 +54,22 @@ Full-Stack Software Engineer based in Jakarta, Indonesia.
 
 ### Current — [@fmuiin](https://github.com/fmuiin) (2024–now)
 
-<img src="./graphs/fmuiin-contribution.svg" alt="fmuiin contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./graphs/fmuiin-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./graphs/fmuiin-snake.svg" />
+  <img alt="fmuiin contribution graph" src="./graphs/fmuiin-snake.svg" />
+</picture>
 
 ---
 
 ### Legacy — [@fmuiin14](https://github.com/fmuiin14) (2023–2026)
 
-<img src="./graphs/fmuiin14-contribution.svg" alt="fmuiin14 contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./graphs/fmuiin14-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./graphs/fmuiin14-snake.svg" />
+  <img alt="fmuiin14 contribution graph" src="./graphs/fmuiin14-snake.svg" />
+</picture>
 
 </div>
 
-> Graphs auto-updated daily via [GitHub Actions](.github/workflows/contribution-graph.yml)
+> 🔄 Graphs auto-updated daily via [GitHub Actions](.github/workflows/contribution-graph.yml)
