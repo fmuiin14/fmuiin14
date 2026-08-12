@@ -54,24 +54,14 @@ Full-Stack Software Engineer based in Jakarta, Indonesia.
 
 ### Current — [@fmuiin](https://github.com/fmuiin) (2024–now)
 
-**Last 31 days**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fmuiin&theme=github-compact&hide_border=true&area=true&days=31" alt="fmuiin - Last 31 days" />
-
-**Last year**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fmuiin&theme=github-compact&hide_border=true&area=true&days=365" alt="fmuiin - Last year" />
+<img src="./graphs/fmuiin-contribution.svg" alt="fmuiin contribution graph" />
 
 ---
 
 ### Legacy — [@fmuiin14](https://github.com/fmuiin14) (2023–2026)
 
-**Last year**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fmuiin14&theme=github-compact&hide_border=true&area=true&days=365" alt="fmuiin14 - Last year" />
-
-**All time**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fmuiin14&theme=github-compact&hide_border=true&area=true" alt="fmuiin14 - All time" />
+<img src="./graphs/fmuiin14-contribution.svg" alt="fmuiin14 contribution graph" />
 
 </div>
+
+> Graphs auto-updated daily via [GitHub Actions](.github/workflows/contribution-graph.yml)
