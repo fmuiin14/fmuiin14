@@ -54,22 +54,18 @@ Full-Stack Software Engineer based in Jakarta, Indonesia.
 
 ### Current — [@fmuiin](https://github.com/fmuiin) (2024–now)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./graphs/fmuiin-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./graphs/fmuiin-snake.svg" />
-  <img alt="fmuiin contribution graph" src="./graphs/fmuiin-snake.svg" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fmuiin&theme=default" alt="fmuiin profile details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fmuiin&theme=default" alt="fmuiin top languages by repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fmuiin&theme=default&utcOffset=7" alt="fmuiin productive time" />
 
 ---
 
 ### Legacy — [@fmuiin14](https://github.com/fmuiin14) (2023–2026)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./graphs/fmuiin14-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./graphs/fmuiin14-snake.svg" />
-  <img alt="fmuiin14 contribution graph" src="./graphs/fmuiin14-snake.svg" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fmuiin14&theme=default" alt="fmuiin14 profile details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fmuiin14&theme=default" alt="fmuiin14 top languages by repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fmuiin14&theme=default&utcOffset=7" alt="fmuiin14 productive time" />
 
 </div>
-
-> 🔄 Graphs auto-updated daily via [GitHub Actions](.github/workflows/contribution-graph.yml)
